@@ -7,16 +7,16 @@
 
 ## SIH26-A0H-TXXX
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** 200 OK <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |    Thilak Sujan K S     |     CB.EN.U4CCE24056   |     Male        |          CCE                    |  
+|    Member 2     |    Krishmitha D         |     CB.SC.U4CSE24726   |     Female      |          CSE                    |  
+|    Member 3     |    Nivishnaa Sri S      |     CB.SC.U4CSE24736   |     Female      |          CSE                    |  
+|    Member 4     |    Yazhini V            |     CB.SC.U4CSE24760   |     Female      |          CSE                    |   
+|    Member 5     |    Sanjay Krishnaa S I  |     CB.EN.U4CCE24043   |     Male        |          CCE                    |  
+|    Member 6     |    Rohith S             |     CB.EN.U4CCE24042   |     Male        |          CCE                    |   
 
 #### Mentor Details
 
@@ -31,14 +31,17 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: 26177
+* **Problem Statement Title:A deployable AI-powered
+autonomous drone that aids search-and-rescue operations
+by detecting people and hazards, thereby improving
+responder safety and reducing victim discovery time.
+* **Theme / Category:Disaster Management / Hardware
+* **Ministry / Organization:Qualcomm Inc
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:26138
+* **Problem Statement Title:Quantum-Inspired Fuel Consumption Prediction and Green Fleet Optimization
+* **Theme / Category:Clean & Green Technology
+* **Ministry / Organization:Egreen Quanta
